@@ -4,7 +4,9 @@
 
 #### March 2023
 
-## 1 Introduction
+## Please see Project_Report.pdf for full paper
+
+## Introduction
 
 A very strong assumption of any usage of data is that the data has no errors. However, due to
 many issues/edge cases in the data collection process, there can be violations of this assumption.
@@ -22,7 +24,7 @@ limitations of recommender systems when we find perturbed datasets. We want to b
 how these sequence-aware recommender systems perform in these edge-case scenarios, and how well-
 equipped they are to deal with them.
 
-## 6 Conclusion
+## Conclusion
 
 The CASER (CNN) greatly outperforms the BST in all of our evaluation metrics. This is because the
 CASER (CNN) embeds a target sequence of T items from the user watch history. The BST, however,
